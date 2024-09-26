@@ -1,6 +1,6 @@
 ### Hi there 👋 &nbsp; I'm Nicholas Boucher
 
-I'm a PhD candidate at the University of Cambridge. I also work for Microsoft.
+I've recently completed a PhD at the University of Cambridge. I also work for Microsoft.
 
 ### About me
 
